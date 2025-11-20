@@ -63,7 +63,6 @@ XGBoost allows for easy interpretation of the importance of clinical variables.
 - WebAPI for new patient prediction
 
 
-Przykład markdown do README (zakładamy, że folder 'figures' trafi do repozytorium):
 
 ![HistAge](figures/HistAge.png)
 
