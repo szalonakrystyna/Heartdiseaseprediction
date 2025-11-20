@@ -63,6 +63,19 @@ XGBoost allows for easy interpretation of the importance of clinical variables.
 - WebAPI for new patient prediction
 
 
+Przykład markdown do README (zakładamy, że folder 'figures' trafi do repozytorium):
+
+![HistAge](figures/HistAge.png)
+
+![Heatmap korelacji](figures/Corr.png)
+
+![Age vs cholesterol](figures/AgevsChol.png)
+
+![ROC Curve](figures/ROC.png)
+
+![Trestbps XGBoost](figures/Trestbps.png)
+
+![Top Feature Importance](figures/TopFI.png)
 
 
 
