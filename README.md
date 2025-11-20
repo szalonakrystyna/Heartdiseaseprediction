@@ -13,16 +13,6 @@ Project purpose is to build ML model, which predict patients heart disease risk 
 - scikit-learn
 - XGBoost
 
-## Repo structure
-
-heart-disease-xgboost/
-│
-├── data/ # dane wejściowe
-├── notebooks/ # notebook Jupyter
-├── images/ # zapisane wykresy PNG
-├── README.md
-└── requirements.txt
-
 ## Data 
 Data set: **Heart Disease UCI** (Cleveland). 
 Source: Kaggle
