@@ -26,10 +26,6 @@ Project contains:
 - correlations,
 - visualization (including scatter plots, boxplots and heatmaps).
 
-Chart example:
-<p align="center">
-  <img src="images/age_vs_cholesterol.png" width="450">
-</p>
 
 ## ML method
 Model: **XGBoostClassifier**
@@ -49,10 +45,6 @@ Pipeline:
 
 ## Feature importance
 XGBoost allows for easy interpretation of the importance of clinical variables.
-
-<p align="center">
-  <img src="images/feature_importance.png" width="450">
-</p>
 
 ## Conclusions
 ...
